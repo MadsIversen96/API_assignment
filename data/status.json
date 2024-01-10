@@ -1,0 +1,20 @@
+{
+    "records": [
+        {
+            "id": 1,
+            "query": "INSERT INTO statuses (status) VALUES ('NOT STARTED')"
+        },
+        {
+            "id": 2,
+            "query": "INSERT INTO statuses (status) VALUES ('STARTED')"
+        },
+        {
+            "id": 3,
+            "query": "INSERT INTO statuses (status) VALUES ('COMPLETED')"
+        },
+        {
+            "id": 4,
+            "query": "INSERT INTO statuses (status) VALUES ('DELETED')"
+        }
+    ]
+}
